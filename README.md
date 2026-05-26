@@ -47,7 +47,7 @@ print("MAC Address",s.recv(1024).decode())
 ```
 <img width="802" height="236" alt="image" src="https://github.com/user-attachments/assets/ec1ba70c-2445-4f4c-a373-ef151d5e9bca" />
 ```
-## PROGRAM - RARP
+## PROGRAM-RARP
 CLIENT:
 ```
 import socket
